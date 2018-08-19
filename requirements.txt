@@ -7,3 +7,6 @@ Werkzeug==0.14.1
 Numpy
 Scipy
 scikit-learn
+nltk
+requests
+chatterbot
